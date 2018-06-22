@@ -3,6 +3,8 @@ Bag of words(features) &amp; SIFT
 
 
 Dataset:
+
+
 ![Caltech_data](./img/caltech.png)
 
 
